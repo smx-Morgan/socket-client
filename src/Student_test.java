@@ -14,7 +14,7 @@ public class Student_test {
     public void run(){
         String name = "daidai";
         int age = 3;
-        System.out.println("这是："+this.name+" "+this.age+" 岁了");
+        System.out.println("这是："+this.name+" g"+this.age+" 岁了");
 
     }
 }
